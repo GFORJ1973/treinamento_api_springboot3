@@ -2,10 +2,8 @@ package com.hgl.curso.entities.pk;
 
 import java.io.Serializable;
 import java.util.Objects;
-
 import com.hgl.curso.entities.Order;
 import com.hgl.curso.entities.Product;
-
 import jakarta.persistence.Embeddable;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
