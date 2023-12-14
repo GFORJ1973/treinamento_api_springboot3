@@ -2,10 +2,8 @@ package com.hgl.curso.entities;
 
 import java.io.Serializable;
 import java.util.Objects;
-
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.hgl.curso.entities.pk.OrderItemPK;
-
 import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
 import jakarta.persistence.Table;

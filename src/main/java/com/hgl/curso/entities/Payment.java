@@ -3,9 +3,7 @@ package com.hgl.curso.entities;
 import java.io.Serializable;
 import java.time.Instant;
 import java.util.Objects;
-
 import com.fasterxml.jackson.annotation.JsonIgnore;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
